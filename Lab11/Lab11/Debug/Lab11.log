@@ -1,0 +1,38 @@
+﻿  Lab11.cpp
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(97): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(99): warning C4244: '+=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(101): warning C4244: '+=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(103): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(105): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(107): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\17hog\source\repos\Lab11\Lab11\Lab11.cpp(109): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Lab11.vcxproj -> C:\Users\17hog\source\repos\Lab11\Debug\Lab11.exe

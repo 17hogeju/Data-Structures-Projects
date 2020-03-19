@@ -1,0 +1,4 @@
+﻿  Lab03.cpp
+c:\users\17hog\source\repos\lab03\lab03\lab03.cpp(275): warning C4101: 'b': unreferenced local variable
+c:\users\17hog\source\repos\lab03\lab03\lab03.cpp(363): warning C4715: 'doOperation': not all control paths return a value
+  Lab03.vcxproj -> C:\Users\17hog\source\repos\Lab03\Debug\Lab03.exe

@@ -1,0 +1,15 @@
+﻿  Lab07.cpp
+c:\users\17hog\source\repos\lab07\lab07\lab07.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\17hog\source\repos\lab07\lab07\taskthree.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  c:\users\17hog\source\repos\lab07\lab07\taskthree.h(10): note: while compiling class template member function 'void TaskThree<int>::addItem(T *)'
+          with
+          [
+              T=int
+          ]
+  c:\users\17hog\source\repos\lab07\lab07\lab07.cpp(116): note: see reference to function template instantiation 'void TaskThree<int>::addItem(T *)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\17hog\source\repos\lab07\lab07\lab07.cpp(25): note: see reference to class template instantiation 'TaskThree<int>' being compiled
+  Lab07.vcxproj -> C:\Users\17hog\source\repos\Lab07\Debug\Lab07.exe

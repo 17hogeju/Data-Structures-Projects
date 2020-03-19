@@ -1,0 +1,49 @@
+Title: Herman Melville
+Full Author : Herman Melville
+Author First Name : 
+Author Last Name : 
+Word Count : 186
+Line Count : 21
+
+Title: James Barrie
+Full Author : James Barrie
+Author First Name : 
+Author Last Name : 
+Word Count : 2796
+Line Count : 316
+
+Title: Herman Melville
+Full Author : Herman Melville
+Author First Name : Herma
+Author Last Name : 
+Word Count : 186
+Line Count : 21
+
+Title: Herman Melville
+Full Author : Herman Melville
+Author First Name : Herman
+Author Last Name : 
+Word Count : 186
+Line Count : 21
+
+Title: Herman Melville
+Full Author : Herman Melville
+Author First Name : Herman
+Author Last Name :  Melville
+Word Count : 186
+Line Count : 21
+
+Title: Herman Melville
+Full Author : Herman Melville
+Author First Name : Herman
+Author Last Name : Melville
+Word Count : 186
+Line Count : 21
+
+Title: Moby Dick
+Full Author : Herman Melville
+Author First Name : Herman
+Author Last Name : Melville
+Word Count : 186
+Line Count : 21
+

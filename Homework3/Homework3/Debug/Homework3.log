@@ -1,0 +1,6 @@
+﻿  Deck.cpp
+c:\users\17hog\source\repos\homework3\homework3\deck.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Homework3.cpp
+  Homework3.vcxproj -> C:\Users\17hog\source\repos\Homework3\Debug\Homework3.exe

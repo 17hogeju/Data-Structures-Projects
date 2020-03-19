@@ -1,0 +1,4 @@
+﻿Lab04.obj : error LNK2019: unresolved external symbol "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ) referenced in function "public: __thiscall BoardGame::BoardGame(void)" (??0BoardGame@@QAE@XZ)
+Lab04.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall BoardGame::play(void)" (?play@BoardGame@@UAEXXZ)
+Lab04.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall VideoGame::play(void)" (?play@VideoGame@@UAEXXZ)
+C:\Users\17hog\source\repos\Lab04\Debug\Lab04.exe : fatal error LNK1120: 3 unresolved externals

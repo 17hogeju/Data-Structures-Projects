@@ -1,0 +1,7 @@
+﻿  Homework1.cpp
+c:\users\17hog\source\repos\homework1\homework1\homework1.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\17hog\source\repos\homework1\homework1\homework1.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\17hog\source\repos\homework1\homework1\homework1.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\17hog\source\repos\homework1\homework1\homework1.cpp(148): warning C4715: 'readTitle': not all control paths return a value
+c:\users\17hog\source\repos\homework1\homework1\homework1.cpp(170): warning C4715: 'readAuthor': not all control paths return a value
+  Homework1.vcxproj -> C:\Users\17hog\source\repos\Homework1\Debug\Homework1.exe
